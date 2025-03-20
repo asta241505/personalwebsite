@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Childhood Years</title>
+    <link rel="stylesheet" href="skills.css">
+</head>
+<body>
+
+    <div align="center">
+        <h1><i>Hobbies</i></h1>
+        <hr>
+    </div>
+
+    <div align="justify">
+        <p><blockquote>
+            I love reading books, especially when I find something interesting or informative.<sup>1</sup> 
+        Listening to music helps me relax and focus, whether I’m working or just unwinding.<sup>2</sup> I enjoy watching movies and TV shows, especially ones that keep me entertained or teach me something new.<sup>3</sup> 
+        Playing video games is one of my favorite ways to have fun and challenge myself.<sup>4</sup> I like traveling and exploring new places whenever I get the chance.<sup>5</sup> 
+        Photography interests me because I enjoy capturing moments and memories.<sup>6</sup> I sometimes draw or sketch when I feel creative and want to express myself.<sup>7</sup> 
+        Writing is another thing I enjoy, whether it’s journaling or just jotting down random thoughts.<sup>8</sup> I love trying out new food and cooking when I have the time.<sup>9</sup>
+        Staying active and working out makes me feel good and keeps me healthy.<sup>10</sup> I find learning new things exciting, especially when it’s something useful.<sup>11</sup> 
+        I like solving puzzles and brain games because they keep my mind sharp.<sup>12</sup> Spending time with pets is something I always enjoy because they make me happy.<sup>13</sup> 
+        I like going to museums, especially history or science museums, because they are full of fascinating things.<sup>14</sup> Exploring history is interesting to me because I like learning about the past and how things evolved.<sup>15</sup>
+        I enjoy going for walks or being outdoors, especially when the weather is nice.<sup>16</sup> Trying out new hobbies is something I like because I enjoy discovering what I’m good at.<sup>17</sup> 
+        I like collecting cool or meaningful things, whether it’s books, souvenirs, or small items that interest me.<sup>18</sup> Talking to friends and family is important to me because I enjoy good conversations.<sup>19</sup>
+        Lastly, I love keeping up with new technology and AI advancements, as they always keep me curious.<sup>20</sup></p>
+        </blockquote></p>
+        
+        <a href="index.html">Go Top</a> | <a href="interests.html">Next: Interests</a> | <a href="../landingpage/index.html">Go Home</a>
+    </div>
+
+</body>
+</html>

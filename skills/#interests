@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Childhood Years</title>
+    <link rel="stylesheet" href="skills.css">
+</head>
+<body>
+
+    <div align="center">
+        <h1><i>Hobbies</i></h1>
+        <hr>
+    </div>
+
+    <div align="justify">
+        <p><blockquote>
+            I love pets because they are adorable and always make me happy.<sup>1</sup> Learning about new AI advancements excites me because technology is changing so fast.<sup>2</sup> 
+        History is interesting to me because I like knowing how things happened in the past.<sup>3</sup> I enjoy visiting museums because they are full of cool and fascinating things.<sup>4</sup> 
+        Health and fitness matter to me because I want to stay strong and feel good.<sup>5</sup> I like watching documentaries about history, science, or new discoveries.<sup>6</sup> 
+        Animals in general fascinate me, and I enjoy learning about different species.<sup>7</sup> I love seeing how AI is used in everyday life, from chatbots to smart assistants.<sup>8</sup> 
+        Ancient civilizations and their stories always grab my attention.<sup>9</sup> I enjoy learning about different cultures and how people live in other parts of the world.<sup>10</sup> 
+        I find old artifacts and historical places really exciting to explore.<sup>11</sup> Fitness trends are fun to follow because they keep workouts interesting.<sup>12</sup> 
+        I like reading about new medical discoveries and how they help people.<sup>13</sup> AI in healthcare is something I find super cool because it can save lives.<sup>14</sup> 
+        Museums with interactive exhibits are my favorite because they make learning fun.<sup>15</sup> I love reading about mysteries from history that still don’t have answers.<sup>16</sup>
+        I enjoy keeping up with new inventions and how they improve life.<sup>17</sup> Cute pet videos always make my day better.<sup>18</sup> I’m interested in how people stayed healthy in the past before modern medicine.<sup>19</sup> 
+        Learning about future technology and how it might change our lives is exciting to me.<sup>20</sup></p>
+        </blockquote></p>
+
+        <a href="index.html">Go Top</a> | <a href="interests.html">Next: Interests</a> | <a href="../landingpage/index.html">Go Home</a>
+    </div>
+
+</body>
+</html>
