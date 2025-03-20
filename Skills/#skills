@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Childhood Years</title>
+    <link rel="stylesheet" href="skills.css">
+</head>
+<body>
+
+    <div align="center">
+        <h1><i>Hobbies</i></h1>
+        <hr>
+    </div>
+
+    <div align="justify">
+        <p><blockquote>
+            I am good at solving problems and finding the best way to get things done.<sup>1</sup> 
+        I like thinking critically, especially when faced with challenges that need careful analysis.<sup>2</sup>
+        Being creative helps me come up with unique ideas and solutions.<sup>3</sup> I pay close attention to detail, making sure my work is accurate and well-organized.<sup>4</sup> 
+        I am quick to adapt to new situations and learn new things easily.<sup>5</sup> 
+        Managing my time well allows me to handle multiple tasks without feeling overwhelmed.<sup>6</sup>
+        I enjoy working in a team and believe good teamwork leads to better results.<sup>7</sup> Clear communication is important to me, and I always try to explain my ideas in a way that others understand.<sup>8</sup>
+        I can multitask efficiently, handling different responsibilities at once.<sup>9</sup> 
+        When needed, I take on leadership roles and help guide others in the right direction.<sup>10</sup> 
+        I am good at researching and finding useful information when I need it.<sup>11</sup> Staying focused helps me work on long or difficult tasks without getting distracted.<sup>12</sup>
+        I make quick and smart decisions, even under pressure.<sup>13</sup> I stay calm in stressful situations and find ways to solve problems effectively.<sup>14</sup> 
+        Being organized helps me keep track of my tasks and responsibilities.<sup>15</sup> I am good at noticing patterns and trends, which helps me understand things better.<sup>16</sup>
+        Patience and perseverance allow me to keep going even when things get tough.<sup>17</sup> I enjoy learning new things and always look for ways to improve myself.<sup>18</sup> 
+        I have strong self-discipline, which helps me stay motivated and consistent.<sup>19</sup> 
+        Lastly, I think strategically, planning my actions to get the best possible outcome.<sup>20</sup></p>
+        </blockquote></p>
+        
+        <a href="index.html">Go Top</a> | <a href="interests.html">Next: Interests</a> | <a href="../landingpage/index.html">Go Home</a>
+    </div>
+
+</body>
+</html>  

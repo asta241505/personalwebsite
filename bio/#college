@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Years</title>
+    <link rel="stylesheet" href="bio.css">
+</head>
+<body>
+
+    <div align="center">
+        <h1><i>College Years</i></h1>
+        <hr>
+    </div>
+
+    <div align="justify">
+        <p><blockquote>
+            Now, I’m living in the reality of college life. Before, I was just this carefree girl, 
+    living in the moment and dreaming of new adventures, all while aspiring to become a 
+    nurse. <sup>1</sup>But life doesn’t always go according to plan, and sometimes it turns everything 
+    upside down.<sup>2</sup> Before I even became a freshman, our life was flipped around. My mom 
+    resigned from her job, and we were still coping with the aftermath of the pandemic.<sup>3</sup>It 
+    was a tough time for me because I had no idea what school I would be attending.<sup>4</sup>I 
+    wasn’t accepted into the state university I had applied to, and on top of that, my debut 
+    was just around the corner.<sup>5</sup>Everything was planned and ready to go, but suddenly, due 
+    to financial struggles, I had to prioritize my education.<sup>6</sup> It broke my heart to let go of the 
+    dream of having the perfect debut.<sup>7</sup>I was just a girl who wanted to experience that 
+    moment, but I understood that sometimes, we have to make sacrifices for the future.<sup>8</sup>Despite everything, I still decided to enroll at the University of the East-Manila. I chose 
+    to pursue an I.T  course because it seemed to be in high demand at the time.<sup>9</sup>Unfortunately, I had to let go of my dream of becoming a nurse due to the high tuition 
+    fees and the cost of textbooks.<sup>10</sup>The I.T. program, however, offered more flexibility, 
+    allowing me to manage my time better.<sup>11</sup>I realized that by simply dedicating myself to 
+    learning and embracing the subject, I could still build a rewarding career.<sup>12</sup>As I began my 
+    freshman year, I quickly realized that every student had their own unique story about 
+    how they ended up in that position.<sup>13</sup> Some were scholars, others had their studies 
+    supported by relatives, while some were privileged enough to be financially secure and 
+    had little to worry about.<sup>14</sup> There were also working students, balancing jobs alongside 
+    their studies, and then there were those who were simply getting through each day, 
+    doing whatever they could to make ends meet.<sup>15</sup>Each person’s journey was different, but 
+    they all shared a common goal of pushing through and pursuing their dreams. So far, my 
+    college journey has been rewarding.<sup>16</sup> I’m surrounded by supportive people who help each 
+    other succeed.<sup>17</sup>  Even though the course can be difficult, we lighten the load by 
+    encouraging one another, all while striving for high scores and passing grades each 
+    semester.<sup>18</sup>  Even though the course can be difficult, we lighten the load by 
+    encouraging one another, all while striving for high scores and passing grades each 
+    semester. <sup>19</sup> But I’m determined to improve and grow. 
+    Once I get that diploma, I’ll face the real-world challenges that come with life, and I 
+    understand the importance of pushing through.<sup>20</sup> I believe things will get better and that 
+    these experiences will help shape me into a better version of myself.
+        </blockquote></p>
+        
+        <a href="index.html">Go Top</a> | <a href="teenage.html">Next: Teenage Years</a> | <a href="../landingpage/index.html">Go Home</a>
+    </div>
+
+</body>
+</html>
