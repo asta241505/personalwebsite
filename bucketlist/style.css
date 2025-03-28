@@ -104,8 +104,6 @@ p {
     font-size: 16px;
     line-height: 1.6;
     margin-top: 10px;
-    margin-left: 20px; /* Add margin on the left */
-    margin-right: 20px; /* Add margin on the right */
 }
 .home-button {
     position: fixed;
@@ -124,7 +122,7 @@ p {
 }
 
 .home-button:hover {
-    background-color: #F49CBB;
+    background-color: #4A2F2F;
 }
 
 .home-button a {
