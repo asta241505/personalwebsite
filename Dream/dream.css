@@ -29,12 +29,12 @@ body {
 .title {
     font-size: 4rem;
     font-weight: bold;
-    color: #880D1E;
+    color: #4A2F2F;
     font-family: 'MonicaBerry';
 }
 
 .subtitle {
-    color: #4A2F2F; 
+    color: #333; 
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     font-size: 2rem;

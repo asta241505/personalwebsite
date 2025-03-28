@@ -107,7 +107,7 @@ p {
     margin-left: 20px; /* Add margin on the left */
     margin-right: 20px; /* Add margin on the right */
 }
-.fa-house {
+.home-button {
     position: fixed;
     bottom: 20px;
     right: 20px;
@@ -121,12 +121,14 @@ p {
     border-radius: 50%;
     box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
     transition: 0.3s;
-    color: white;
-    text-decoration: none;
-    font-size: 1.5rem;
 }
 
-.fa-house:hover {
-    background-color: #4A2F2F;
-    transform: scale(1.1);
+.home-button:hover {
+    background-color: #F49CBB;
+}
+
+.home-button a {
+    color: white;
+    font-size: 1.5rem;
+    text-decoration: none;
 }
