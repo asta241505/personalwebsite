@@ -4,62 +4,75 @@ body {
     margin: 0;
     padding: 0;
     background-color: #F49CBB;
-    color: #DD2D4A;
+    color: #333;
     text-align: center;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: bold;
 }
-
 
 h1 {
     margin: 0;
-    font-size: 3.5rem;
+    font-size: 3rem;
     font-weight: bold;
-    color:#880D1E;
-    font-family:'MonicaBerry';
+    color: #4A2F2F;
+    font-family: 'MonicaBerry';
 }
+
+/* Navbar Styles */
 .navbar {
     display: flex;
     justify-content: center;
+    align-items: center;
     background-color: #f5f5f5;
     padding: 15px;
     border-radius: 10px;
-    margin: 0 20px;
+    margin: 0 auto;
+    max-width: 90%;
+    overflow-x: auto; /* Allows scrolling if needed */
+}
+
+.links {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 10px;
 }
 
 .links a {
     text-decoration: none;
     color: white;
     background-color: #e75480;
-    padding: 10px 20px;
+    padding: 10px 15px;
     border-radius: 20px;
-    margin: 0 5px;
     font-weight: bold;
-    display: inline-block;
+    white-space: nowrap; /* Prevents text from breaking */
 }
 
+/* Section Links */
 .section-links {
     margin: 20px 0;
 }
 
 .section-links a {
     text-decoration: none;
-    color: #DD2D4A;
+    color: #333;
     margin: 0 15px;
     font-size: 2.5rem;
 }
+
 .gallery-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: stretch;
     gap: 20px;
     margin: 20px;
 }
 
 .gallery {
-    background: #fff;
+    background: #f5f5f5;
     padding: 10px;
     border-radius: 10px;
+    border: #333 2px solid;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
     max-width: 250px;
@@ -76,10 +89,11 @@ h1 {
     font-weight: bold;
 }
 
+/* Justified Content Box */
 div[align="justify"] {
     max-width: 800px;
     margin: 20px auto;
-    background: white;
+    background: #f5f5f5;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -87,13 +101,13 @@ div[align="justify"] {
 }
 
 h2 {
-    color: #880D1E;
-    font-family:'MonicaBerry';
-
+    color: #4A2F2F;
+    font-family: 'MonicaBerry';
 }
 
 sup {
-    color: #880D1E;
+    color: #4A2F2F;
+    font-size: 1rem;
 }
 
 .home-button {
@@ -101,7 +115,7 @@ sup {
     bottom: 20px;
     right: 20px;
     background-color: #F49CBB;
-    border: 2px solid #DD2D4A;
+    border: 2px solid #4A2F2F;
     width: 50px;
     height: 50px;
     display: flex;
@@ -113,7 +127,7 @@ sup {
 }
 
 .home-button:hover {
-    background-color: #F49CBB;
+    background-color: #4A2F2F;
 }
 
 .home-button a {
@@ -121,8 +135,6 @@ sup {
     font-size: 1.5rem;
     text-decoration: none;
 }
-
-
 .go-top {
     display: inline-block;
     width: fit-content;
@@ -132,7 +144,7 @@ sup {
     font-weight: bold;
     color: #ffffff;
     background-color: #F49CBB;
-    border: 2px solid #DD2D4A;
+    border: 2px solid #4A2F2F;
     border-radius: 25px;
     text-decoration: none;
     box-shadow: 2px 4px 6px rgba(255, 182, 193, 0.3);
@@ -146,5 +158,5 @@ sup {
 }
 
 .go-top:hover {
-    background-color: #F26A8D;
+    background-color: #4A2F2F;
 }

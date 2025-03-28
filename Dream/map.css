@@ -1,0 +1,189 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F49CBB;
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto 50px;
+    padding: 10px 20px;
+    background: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Adjusted title position - moved it up slightly */
+.title-container {
+    width: 100%; /* Stretched across the container */
+    max-width: 900px; /* Ensures consistency */
+    margin: 10px auto; /* Keeps it centered */
+    padding: 15px 20px; /* Reduced padding to 20px on the left and right */
+    background: #F49CBB;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 2px solid #4A2F2F;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.title-container h1 {
+    font-size: 4rem;
+    font-weight: bold;
+    color: #4A2F2F;
+    font-family: 'MonicaBerry';
+    margin-top: 0; 
+    margin-bottom: 10px; 
+}
+
+.title-container .description {
+    font-family: Poppins, sans-serif;
+    text-align: justify;
+    color: #333;
+    font-size: 18px; 
+    max-width: 850px; 
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0 10px;
+}
+.how-to-go-container {
+    width: 100%;
+    max-width: 900px;
+    margin: 10px auto;  
+    padding: 20px;
+    background: #F49CBB;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 2px solid #4A2F2F;
+    text-align: left;
+}
+
+.how-to-go-container h2 {
+    font-size: 28px;
+    color: #4A2F2F;
+    margin-bottom: 5px;  
+    margin-top: 0; 
+}
+
+.how-to-go-container p {
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    color: #333;
+    text-align: justify;
+    margin: 10px 0;
+
+}
+
+.image-container {
+    text-align: center;
+    margin: 15px 0;
+}
+
+.image-container img {
+    width: 80%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 10px;
+    border: 2px solid #4A2F2F;
+}
+
+h2 {
+    color: #4A2F2F;
+    font-size: 32px;
+    margin-top: 20px;
+}
+
+h3 {
+    color: #4A2F2F;
+    font-size: 28px;
+    margin-top: 20px;
+}
+
+.gallery-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.gallery-item {
+    display: flex;
+    align-items: center;
+    background: #F49CBB;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    width: 80%;
+    border: 2px solid #4A2F2F;
+}
+
+.gallery img {
+    width: 300px;
+    height: auto;
+    border-radius: 5px;
+    border: 2px solid #4A2F2F;
+}
+
+.description-container {
+    text-align: left;
+    padding-left: 20px;
+    width: 100%;
+}
+
+.description-container h3 {
+    margin: 0;
+    color: #4A2F2F;
+}
+
+.description-container p {
+    text-align: justify;
+    margin: 5px 0 0;
+    color: #333;
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+}
+
+.fa-house {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #F49CBB;
+    border: 2px solid #4A2F2F;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
+    transition: 0.3s;
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+.fa-house:hover {
+    background-color: #4A2F2F;
+    transform: scale(1.1);
+}
+
+.back-button {
+    display: block;
+    position: fixed;
+    bottom: 100px;
+    right: 20px;
+    padding: 12px 18px;
+    background: #F49CBB;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    border: 2px solid #4A2F2F;
+}
+
+.back-button:hover {
+    background: #4A2F2F;
+}

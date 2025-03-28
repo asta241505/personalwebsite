@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f7a9c4;
+    background-color: #F49CBB;
 }
 
 
@@ -28,7 +28,7 @@ body {
 .navbar {
     display: flex;
     justify-content: center;
-    background-color: #ffffff;
+    background-color: #f5f5f5;
     padding: 15px;
     border-radius: 10px;
     margin: 0 20px;
@@ -59,16 +59,15 @@ body {
 }
 
 .hero h1 {
-    color: #880D1E;
+    color: #4A2F2F;
     font-size: 68px;
     margin-bottom: 10px;
-    font-family: 'Monica Berry';
+    font-family: 'Georgia', sans-serif;
 }
 
 .hero p {
-    color: #d32f57;
+    color: #333;
     font-size: 20px;
-    font-weight: bold;
 }
 
 .hero-image {

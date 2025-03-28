@@ -1,7 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #F49CBB;
-    color: #DD2D4A;
+    color: #4A2F2F;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -36,13 +36,13 @@ body {
 h1 {
     font-size: 5rem;
     margin-bottom: 10px;
-    color: #880D1E;
+    color: #4A2F2F;
     font-family: 'Monica Berry';
 }
 
 .subtext {
     font-size: 2rem;
-    color: #DD2D4A;
+    color: #333;
     margin-bottom: 20px;
 }
 
@@ -55,23 +55,26 @@ h1 {
 }
 
 .genre h2 {
-    color: #DD2D4A;
+    color: #4A2F2F;
     font-size: 2.8rem;
     margin-bottom: 15px;
     font-family: 'Monica Berry';
+}
+p{
+    color: #333;
+    font-size: 18px;
 }
 
 .song iframe {
     margin: 10px 0;
     border-radius: 5px;
 }
-
 .home-button {
     position: fixed;
     bottom: 20px;
     right: 20px;
     background-color: #F49CBB;
-    border: 2px solid #DD2D4A;
+    border: 2px solid #4A2F2F;
     width: 50px;
     height: 50px;
     display: flex;
@@ -83,7 +86,7 @@ h1 {
 }
 
 .home-button:hover {
-    background-color: #F49CBB;
+    background-color: #4A2F2F;
 }
 
 .home-button a {
@@ -101,7 +104,7 @@ h1 {
     font-weight: bold;
     color: #ffffff;
     background-color: #F49CBB;
-    border: 2px solid #DD2D4A;
+    border: 2px solid #4A2F2F;
     border-radius: 25px;
     text-decoration: none;
     box-shadow: 2px 4px 6px rgba(255, 182, 193, 0.3);
@@ -115,6 +118,6 @@ h1 {
 }
 
 .go-top:hover {
-    background-color: #F26A8D;
+    background-color: #4A2F2F;
 }
 

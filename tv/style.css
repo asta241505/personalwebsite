@@ -29,6 +29,7 @@ body {
     padding: 10px 20px;
     border-radius: 20px;
     margin: 0 5px;
+    font-weight: bold;
     display: inline-block;
 }
 
@@ -82,14 +83,15 @@ h2 {
 
 iframe {
     width: 100%;
-    max-width: 550px; /* Reduced max width */
-    height: 300px; /* Reduced height */
+    max-width: 550px;
+    height: 300px; 
     border-radius: 8px;
     border: 4px solid #4A2F2F;
 }
 
 .movie-container p {
-    font-size: 1.2rem; /* Slightly smaller */
+    font-size: 1.2rem;
+    font-weight: bold;
     color: #333;
     margin-top: 8px;
     text-align: center;
@@ -118,8 +120,6 @@ iframe {
     background-color: #4A2F2F;
     transform: scale(1.1);
 }
-
-/* Scroll to top button */
 .go-top {
     display: inline-block;
     width: fit-content;
